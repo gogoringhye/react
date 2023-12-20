@@ -1,4 +1,6 @@
-![image](https://github.com/gogoringhye/react/assets/145514996/cd98f3d8-adb4-489f-9968-16dcfb9076a2)  # 1_ node.js설치
+🔎 https://www.react.org/(영어 원문 사이트)
+
+- ![image](https://github.com/gogoringhye/react/assets/145514996/cd98f3d8-adb4-489f-9968-16dcfb9076a2)  # 1_ node.js설치
 * 자바스크립트를 브라우저 밖에서도 동작할수 있게 하는 런타임환경
 * Node.js가 제공하는것이 npm(Node Package Manager)
 * npm이란 node.js로 만들어진 필요한 모듈을 다운받고 관리해줌. 다른 개발자가 만들어둔 유용한 nodeja로 만들어진 툴로 가져다 쓸수 있음
