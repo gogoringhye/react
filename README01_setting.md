@@ -1,6 +1,7 @@
 🔎 https://www.react.org/ (영어 원문 사이트)
 
- 🔨 node.js설치![image](https://github.com/gogoringhye/react/assets/145514996/cd98f3d8-adb4-489f-9968-16dcfb9076a2)  
+ 🔨 node.js설치
+ - ![image](https://github.com/gogoringhye/react/assets/145514996/cd98f3d8-adb4-489f-9968-16dcfb9076a2)  
 
  
 * 자바스크립트를 브라우저 밖에서도 동작할수 있게 하는 런타임환경
