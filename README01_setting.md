@@ -76,5 +76,21 @@ npm start
 
 
 
+D:--> D드라이브로 들어간다 C:--> C드라이브로 들어간다
+dir --> 파일 안에 뭐가 들어있는지 보여줌
 
 
+react-->설치--새로운 React 앱 만들기--npx create-react-app my-app 복사
+
+사이트 보고 파일 만든 다음 터미널 들어가서 따라치기
+npx create-react-app my-app
+cd my-app
+npm start
+
+
+깔고나서도 수업 할때
+터미널 열고 
+cd my-app
+npm start 쳐야 실행됨
+
+![image](https://github.com/gogoringhye/read/assets/145514996/07108f30-05be-4226-9eef-21c38e18bf79)
